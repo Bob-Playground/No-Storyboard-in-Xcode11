@@ -81,5 +81,8 @@ iOS 12 跑起来后，层级里没有 `UITextEffectsWindow`，而是有一个 `U
 
 ![](media/15719939860725.jpg)
 
-那么，iOS 13 中为什么没有 `UIStatusBarWindow` 了呢？新添加的 `UITextEffectsWindow` 作用又是什么呢？敬请期待下一篇内容。
+如果不想显示 `UITextEffectsWindow` 和 `UIStatusBarWindow`，则可在reveal 软件的下方点击中间的那个按钮，将系统的 window 和 view 隐藏：
+
+![](media/15719954838556.jpg)
+
 
